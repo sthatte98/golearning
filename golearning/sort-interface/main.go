@@ -9,6 +9,7 @@ type SortAny interface {
 	SortSlice()
 }
 
+//my comment
 type people []string
 type nums []int
 
